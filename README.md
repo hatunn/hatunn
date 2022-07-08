@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @hatunn
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me, mervehtnozcan@gmail.com
+Hi, I’m @hatunn
+I have created a new GitHub for my learning process
+I’m currently learning JavaScript.
+
+mervehtnozcan@gmail.com
 
 <!---
 hatunn/hatunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
